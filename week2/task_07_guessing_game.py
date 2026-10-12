@@ -8,4 +8,4 @@ for i in range(5):
     else:
         print(f"wrong please try again \n Attempt {i + 1}")
 else:
-    print("failed to guess correctly")
+    print("failed to guess correctly\nGame over")
